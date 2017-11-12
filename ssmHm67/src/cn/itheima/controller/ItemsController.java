@@ -24,7 +24,7 @@ public class ItemsController {
 	
 	@Autowired
 	private ItemsService itemsService;
-	
+	//clone中在此增加一句注释
 	/**
 	 * @RequestMapping注解是将具体的URL和我们的对应的方法建立了一个从URL到方法的映射
 	 * 然后将这个映射放到了一个由Springmvc维护的map对象中
